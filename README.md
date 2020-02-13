@@ -1,9 +1,8 @@
-# README
+# Location Mapper Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple application to map locations using Ruby on Rails.
 
-Things you may want to cover:
+Things included:
 
 * Ruby version
 
